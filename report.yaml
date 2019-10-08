@@ -1,0 +1,28 @@
+company:
+  name: Via
+  logo: 
+product_hmw: How might improve access to transportation for people with disabilities?
+product_narrative: |
+  People with disabilties face a lot of issues in things able-bodied people take for granted, and one the major ones in transportation. 
+team:
+  picture: 
+  roster:
+  - name: Manika Agarwal
+    email: ma2286@cornell.edu
+    picture: 
+    program: CS
+  - name: Nethra Gomatheswaran
+    email: ng457@cornell.edu
+    picture: 
+    program: Parson's
+  - name: Leo Luo
+    email: yl3398@cornell.edu
+    picture: 
+    program: CS
+  - name: Matan Sagee
+    email: ms3382@cornell.edu
+    picture: 
+    program: MBA
+assets:
+- title: Sprint 1
+  url: 
