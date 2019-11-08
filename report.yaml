@@ -3,7 +3,8 @@ company:
   logo: via.jpg
 product_hmw: How might improve access to transportation for people with disabilities?
 product_narrative: |
-  People with disabilties face a lot of issues in things able-bodied people take for granted, and one the major ones in transportation. 
+  People with disabilties face a lot of troubles and inconveniences when requesting rides. 
+  Working together with our industry partner Via Transportation, we want to explore ways to give visually impaired people a more convenient pickup experience. 
 team:
   picture: Team.JPG
   roster:
@@ -26,3 +27,5 @@ team:
 assets:
 - title: Sprint 1
   url: https://docs.google.com/presentation/d/e/2PACX-1vTJr134lUnzopqePmlIsvH2W6wGMeqivDWJY5ZSpDi2GWvrMujN9dS20HnNzcp0FD7fM0Zexfwd9ZZU/pub?start=false&loop=false&delayms=3000
+- title: Sprint 2
+  url: https://drive.google.com/open?id=1Bb-sixheGr68v557FpoOuW75dvnafbdnSZo8FW6AY4k
